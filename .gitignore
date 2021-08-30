@@ -1,0 +1,9 @@
+#
+# .gitignore
+#
+
+# Ignore Sublime Text files.
+*.sublime-workspace
+
+# Ignore the '.vagrant' directory.
+.vagrant/*
